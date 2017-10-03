@@ -1,3 +1,9 @@
+<%-- 
+    Document   : MediceOreder
+    Created on : Oct 3, 2017, 11:48:45 AM
+    Author     : student22
+--%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -6,10 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <a href="Designation.jsp"> Designation</a><br>
-        <a href="staff.jsp"> Staff</a><br>
-        <a href="stock.jsp"> Stock</a><br>
-                       <a href="supplier.jsp"> Supplier</a>
-        
+        <h1>Hello World!</h1>
     </body>
 </html>
